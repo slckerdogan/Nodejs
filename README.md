@@ -1,3 +1,3 @@
 # Nodejs
 It includes my Node.js Lessons notes
-At these notes, you can see Vanilla JavaScript, but it is the basing of Node.js for learning path.
+These notes show Vanilla JavaScript, which is the basis of the Node.js learning path.
