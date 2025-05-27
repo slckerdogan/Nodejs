@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _default=exports["default"]="App";//?ŞAYET BELLİ BİR ŞEYİ EXPORT EDEREK BAŞKA YERDE KULLANMAK İSTERSEK YAPTIĞIMIZ ŞEKLİN YER ÖRNEĞİ
